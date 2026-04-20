@@ -1,0 +1,6 @@
+Project Plan:
+
+1. Collect electricity usage dataset
+2. Clean and process the data using Python
+3. Build visualizations using Streamlit / Power BI
+4. Analyze patterns and generate insights
